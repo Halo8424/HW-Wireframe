@@ -15,10 +15,29 @@ body {
     padding: 20px;
 }
 
+header{
+    margin: 10px;
+}
+
+nav{
+    margin: 10px;
+}
+footer{
+    margin: 10px;
+}
+
 article {
   background-color: #777;
 }
 
 section{
+    float: left;
     width: 495px;
+}
+aside{
+    float: right;
+}
+
+footer{
+    clear: both;
 }
