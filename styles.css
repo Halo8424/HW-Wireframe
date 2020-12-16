@@ -30,12 +30,21 @@ article {
   background-color: #777;
 }
 
+
+
 section{
     float: left;
     width: 495px;
+    height: 276px;
+    margin: 10px;
+   
 }
 aside{
     float: right;
+    width: 35%;
+    height: 276px;
+    margin: 10px;
+    
 }
 
 footer{
