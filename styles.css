@@ -5,3 +5,11 @@ body {
   width: 960px;
   font-size: 18px;
 }
+
+.backGroundColor {
+  background-color: #ebebeb;
+}
+
+article {
+  background-color: #777;
+}
