@@ -9,7 +9,14 @@ body {
 .backGroundColor {
   background-color: #ebebeb;
 }
+.text{
+    text-align: center;
+}
 
 article {
   background-color: #777;
+}
+
+section{
+    width: 495px;
 }
