@@ -10,39 +10,39 @@ body {
 .backGroundColor {
   background-color: #ebebeb;
 }
-.text{
-    text-align: center;
-    padding: 20px;
+.text {
+  text-align: center;
+  padding: 20px;
 }
 
-header{
-    margin: 10px;
+header {
+  margin: 10px;
 }
 
-nav{
-    margin: 10px;
+nav {
+  margin: 10px;
 }
-
 
 article {
-    height: 210px;
-    margin: 10px;
+  height: 210px;
+  margin: 10px;
   background-color: #777;
 }
 
-
-
-section{
-    float: left;
-    width: 495px;
-    height: 276px;
-    padding: 25px; 
-    margin: 10px;
-   
+section {
+  float: left;
+  width: 495px;
+  height: 276px;
+  padding: 25px;
+  margin: 10px;
 }
-aside{
-    float: right;
-    width: 35%;
-    height: 276px;
-    margin: 10px;
+aside {
+  float: right;
+  width: 35%;
+  height: 276px;
+  margin: 10px;
+}
+footer {
+  margin: 10px;
+  clear: both;
 }
