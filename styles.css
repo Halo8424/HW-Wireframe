@@ -22,11 +22,11 @@ header{
 nav{
     margin: 10px;
 }
-footer{
-    margin: 10px;
-}
+
 
 article {
+    height: 180px;
+    margin: 10px;
   background-color: #777;
 }
 
@@ -36,6 +36,7 @@ section{
     float: left;
     width: 495px;
     height: 276px;
+    padding: 25px; 
     margin: 10px;
    
 }
@@ -44,9 +45,4 @@ aside{
     width: 35%;
     height: 276px;
     margin: 10px;
-    
-}
-
-footer{
-    clear: both;
 }
